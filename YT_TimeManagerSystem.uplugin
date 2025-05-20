@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "YT Time Manager System",
+	"Description": "A plugin for in-game time, days, and day-night cycles.",
+	"Category": "Gameplay",
+	"CreatedBy": "Your Name",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "YT_TimeManagerSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+} 
